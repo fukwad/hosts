@@ -1,6 +1,9 @@
 ----
 **Take Note!**  This version of the Hosts file generator, and tests, are for Python 3.5+ only.
-
+----
+**Take note!!**  There is a big diffrence between "fake news" and censoring politics you don't agree with. Some 
+blacklisted hosts are justified as "Fake News" and some are just a censoring of non left leaning political websites.
+This is a warning for people that are agaisnt censors posing as Fake News blacklists.
 ----
 
 ![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
